@@ -1,0 +1,11 @@
+opusfile: OpusFile (API for basic manipulation of Ogg Opus audio streams)
+opusfile:
+opusfile: The opusfile library provides seeking, decode, and playback of
+opusfile: Opus streams in the Ogg container (.opus files) including over
+opusfile: http on posix systems. 
+opusfile:
+opusfile:
+opusfile:
+opusfile:
+opusfile:
+opusfile: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
